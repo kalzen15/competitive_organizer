@@ -26,7 +26,7 @@
         -Create an interactive javascript menu ||scotch.io || Pending
         -Vue 360 || Erik Hanchett || Pending
 
-    -Web DevelopedByed(PHP)
+    -Web Developedment(PHP)
         -The PHP Practitioner || Laracasts || Pending
         -Object-Oriented Principles in PHP || Laracasts || Pending
         -Getting started with vagrant for local development || Scotch.io || Pending
@@ -34,5 +34,6 @@
         -Confident Laravel || ConfidentLaravel.com || Pending
         -Useful Laravel Packahes || Codewithdre.com || Pending
 
-
+    -Data Strucutre and Algorithm
+        -
 
