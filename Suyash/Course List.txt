@@ -44,6 +44,10 @@
 
     -Design 
         -Design basics || Designacademy.io || Pending
+        -The Science of Great Design || Deviq.io ||Pending
+        -Create designs like a pro || Deviq.io ||Pending 
+        -Visual Design Principles and Best Practices || sarahdoody.com ||Pending 
+        -The UX Portfolio Formula || sarahdoody.com ||Pending 
 
     -RPA development
         -Getting Started with RPA || automationanywhere.com || Pending
@@ -53,5 +57,6 @@
 
     -Others
         -Advanced Distributed System Design || particular.net || Working
+        -Thinking Like an Object-Oriented Programmer || Bob Tabor || pending
         
 
