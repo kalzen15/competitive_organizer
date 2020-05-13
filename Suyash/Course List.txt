@@ -42,3 +42,16 @@
         -6 Quetions on System Design || Algoexpert.io || Pending
         -Job Interview: Tips and Tricks || Algoexpert.io || Pending
 
+    -Design 
+        -Design basics || Designacademy.io || Pending
+
+    -RPA development
+        -Getting Started with RPA || automationanywhere.com || Pending
+        -Bot Developer || automationanywhere.com || Pending
+        -Advanced RPA Professional Prep + Exam (version 11) || automationanywhere.com || Pending
+
+
+    -Others
+        -Advanced Distributed System Design || particular.net || Working
+        
+
