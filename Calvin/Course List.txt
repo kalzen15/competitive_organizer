@@ -1,0 +1,66 @@
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+/*
+#categoryName
+    -groupName
+        courseTitle || courseAuthor || courseStatus   
+*/
+----------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------
+#Tech
+    -C#
+        -C#-1to10|| Tim Corey || Pending
+        -Application Lifecycle Design || Tim Corey || Pending        
+        -SQLite Application from start to finish || Tim Corey || Pending
+        -Application from start to finish || Tim Corey|| Pending
+        -Timco Retail Manager Phase 1 || Tim Corey || Pending
+        -SQL Databases: From Start to Finish || Tim Corey || Pending
+        -Getting Started with .NET Core || Tim Corey || Pending                         
+        -Upgrading to .NET Core from Start to Finish || Tim Corey || Pending
+        -Getting Started with Docker || Tim Corey || Pending
+        -Learn Blazor Server|| Tim Corey || Pending
+
+    -Web Development(javascript)
+        -HTML5 and CSS3 creative course ||DevelopedByed|| Working
+        -Creative Javascript Course ||DevelopedByed || Pending
+        
+	-Create an interactive javascript menu ||scotch.io || Pending
+        
+    
+    -MERN/MEVN
+	-Vue 360 || Erik Hanchett || Pending
+	-Pure React || Dave Cedia || Pending
+	-COMPLETE NODE.JS DEVELOPER COURSE ||Andrew || Pending
+	-MERN Stack Front To Back || Brad Traversy || Pending
+
+    -Web Developedment(PHP)
+        -The PHP Practitioner || Laracasts || Pending
+        -Object-Oriented Principles in PHP || Laracasts || Pending
+        -Getting started with vagrant for local development || Scotch.io || Pending
+        -Laravel From Scratch || Laracasts || Pending
+        -Confident Laravel || ConfidentLaravel.com || Pending
+        -Useful Laravel Packahes || Codewithdre.com || Pending
+
+    -Machine Learning
+        -Applied Machine Learning course || AppliedAI || Pending
+	-MastAI ki paathSHALA || SHALA2020 || Working
+	-Machine Learning || Andrew NG || Working
+    
+    -Flutter
+	-Flutter Courses || raywenderlich.com || Pending
+	-Build native apps with Flutter || codecourse.com || Pending
+
+    -Desktop
+	-Electron Fundamentals, v2 || frontendmasters || Pending
+    
+    -UI/UX
+	-Advanced Prototyping with ProtoPie || designcode.io || Pending
+	-Design Fundamentals || designacademy.io || Pending
+	-Design courses || designcode.io || Pending
+
+    -DSA
+	-Data Structures Crash Course || AlgoExpert || Pending
+	-Become an Algorithms Expert || AlgoExpert || Pending
+	-Technical Interview Classes || backtobackswe.com || Pending
+	
+#Business
