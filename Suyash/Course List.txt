@@ -22,9 +22,23 @@
 
     -Web Development(javascript)
         -HTML5 and CSS3 creative course ||DevelopedByed|| Working
+        -Javascript basics || Ultimatecourses.com || Pending
+        -JAVASCRIPT DOM || Ultimatecourses.com || Pending
         -Creative Javascript Course ||DevelopedByed || Pending
-        -Create an interactive javascript menu ||scotch.io || Pending
-        -Vue 360 || Erik Hanchett || Pending
+        -Modern Javascript || Tyler Mcginnis || Pending 
+        -Advanced Javascript || Tyler Mcginnis || Pending
+        -React || Tyler Mcginnis || Pending
+        -React Redux || Tyler Mcginnis || Pending
+        -React Router4 || Tyler Mcginnis || Pending
+        -React Router5 || ReactTraining || pending
+        -React Hooks || Tyler Mcginnis || Pending
+        -React Hooks || ReactTraining.com || Pending
+        -Realtime React with Firebase || ReactTraining || Pending
+        -TypeScript basics || Ultimatecourses.com || Pending 
+        -TypeScript Masterclass || Ultimatecourses.com || Pending
+        -TinyHouse: Fullstack || Fullstack.io || Pending
+        -Microservices with Node JS and React || udemy || pending
+           
 
     -Web Developedment(PHP)
         -The PHP Practitioner || Laracasts || Pending
