@@ -72,5 +72,6 @@
     -Others
         -Advanced Distributed System Design || particular.net || Working
         -Thinking Like an Object-Oriented Programmer || Bob Tabor || pending
+        -Getting Git || Jason Mccreary || Pending
         
 
