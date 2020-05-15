@@ -24,29 +24,56 @@
         -HTML5 and CSS3 creative course ||DevelopedByed|| Working
         -Javascript basics || Ultimatecourses.com || Pending
         -JAVASCRIPT DOM || Ultimatecourses.com || Pending
-        -Creative Javascript Course ||DevelopedByed || Pending
+        -Creative Javascript Course || DevelopedByed || Pending
+      
+    -Web Development(Pre-Framework track)
         -Modern Javascript || Tyler Mcginnis || Pending 
         -Advanced Javascript || Tyler Mcginnis || Pending
+        -TypeScript basics || Ultimatecourses.com || Pending 
+        -TypeScript Masterclass || Ultimatecourses.com || Pending
+        -Firestore data modeling course || Fireship.io || Pending
+
+    -Web Development(React Track)
         -React || Tyler Mcginnis || Pending
         -React Redux || Tyler Mcginnis || Pending
         -React Router4 || Tyler Mcginnis || Pending
-        -React Router5 || ReactTraining || pending
+        -React Router5 || ReactTraining || Pending
         -React Hooks || Tyler Mcginnis || Pending
         -React Hooks || ReactTraining.com || Pending
-        -Realtime React with Firebase || ReactTraining || Pending
-        -TypeScript basics || Ultimatecourses.com || Pending 
-        -TypeScript Masterclass || Ultimatecourses.com || Pending
+        -Realtime React with Firebase || ReactTraining || Pending 
         -TinyHouse: Fullstack || Fullstack.io || Pending
-        -Microservices with Node JS and React || udemy || pending
-           
+        -Microservices with Node JS and React || udemy || Pending
 
-    -Web Developedment(PHP)
+    -Web Development(Vue Track)
+        -Intro to Vue.js || vuemastery.com || Pending
+        -Real World Vue.js || vuemastery.com || Pending
+        -Mastering Vuex || vuemastery.com || Pending
+        -Next-Level Vue || vuemastery.com || Pending
+        -Watch us Build a Trello Clone  || vuemastery.com || Pending
+        -Animating Vue || vuemastery.com || Pending
+        -Unit Testing || vuemastery.com || Pending
+        -Token-Based Authentication || vuemastery.com || Pending
+        -Scaling vue with Nuxt.js || vuemastery.com || Pending
+        -Beautify with Vuetify || vuemastery.com || Pending
+        -Component Design Patterns || vuemastery.com || Pending
+        -Vue 3 Essentials || vuemastery.com || Pending
+        -Vue 3 Reactivity || vuemastery.com || Pending
+        -Vue 360 || Erik Hanchett || Pending
+        -The Vue Firebase Project Course || Fireship.io || Pending
+        -Vue 3 deep dive with evan you || vuemastery.com || Pending
+        -Build Your First Vue.js App || Vuejsdeveloper.com || Pending
+        -Build A Vue.js Single-Page App with Vue Router || Vuejsdeveloper.com || Pending
+        -Build A Professional Vue App with Vuex & Server-Side Rendering || Vuejsdeveloper.com || Pending
+        -Enterprise vue || Vuejsdeveloper.com || Pending
+        -Build Along: Vue3 Time Blocking App || Learnvue.co || Pending
+
+    -Web Developedment(PHP-Laravel)
         -The PHP Practitioner || Laracasts || Pending
         -Object-Oriented Principles in PHP || Laracasts || Pending
         -Getting started with vagrant for local development || Scotch.io || Pending
         -Laravel From Scratch || Laracasts || Pending
         -Confident Laravel || ConfidentLaravel.com || Pending
-        -Useful Laravel Packahes || Codewithdre.com || Pending
+        -Useful Laravel Packages || Codewithdre.com || Pending
 
     -DSA and interview Preparation
         -Crash Course in Data Structures || Algoexpert.io || Pending    
@@ -71,7 +98,7 @@
 
     -Others
         -Advanced Distributed System Design || particular.net || Working
-        -Thinking Like an Object-Oriented Programmer || Bob Tabor || pending
+        -Thinking Like an Object-Oriented Programmer || Bob Tabor || Pending
         -Getting Git || Jason Mccreary || Pending
         
 
