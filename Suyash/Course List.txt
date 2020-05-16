@@ -22,18 +22,23 @@
 
     -HTML & CSS
         -HTML5 and CSS3 creative course ||DevelopedByed|| Working
-        -CSS simplified || || Webdevsimplified.com || Pending
+        -CSS simplified || Webdevsimplified.com || Pending
+        -Learn CSS GRID  || wesbos || Pending
         -Level up your CSS animation skills || CssAnimation.rocks || Pending
         -Skrollr workshop || ihatetomatoes.net || Pending
         -ScrollMagic 101 || ihatetomatoes.net || Pending
         -ScrollMagic Workshop || ihatetomatoes.net || Pending
         -GreenSock 101 || ihatetomatoes.net || Pending
         -GreenSock Workshop || ihatetomatoes.net || Pending
+        -The Responsive Web Design Bootcamp || Kevin Powell || Pending
+        -Sass from beginner to real world || Kevin Powell || Pending
  
-    -Javascript    
+    -Javascript  
+        -Creative Javascript Course || DevelopedByed || Pending  
+        -JavaScript for beginners || wesbos || Pending
+        -ES6 for everyone || wesbos || Pending
         -Javascript basics || Ultimatecourses.com || Pending
         -JAVASCRIPT DOM || Ultimatecourses.com || Pending
-        -Creative Javascript Course || DevelopedByed || Pending
         -Modern Javascript || Tyler Mcginnis || Pending 
         -Advanced Javascript || Tyler Mcginnis || Pending
 
@@ -43,13 +48,15 @@
         -TypeScript basics || Ultimatecourses.com || Pending 
         -TypeScript Masterclass || Ultimatecourses.com || Pending
         
-        
-
     -Firebase    
         -Firestore data modeling course || Fireship.io || Pending
         -Cloud Functions Stripe Payments || Fireship.io || Pending
 
+    -Node   
+        -Learn Node || wesbos || Pending
+        -
     -React
+        -React for beginners
         -React 101 || ihatetomatoes.net || Pending
         -React Workshop || ihatetomatoes.net || Pending
         -Learn React Today || Webdevsimplified.com || Pending
@@ -63,6 +70,7 @@
         -React Hooks || ReactTraining.com || Pending
         -Realtime React with Firebase || ReactTraining || Pending 
         -Frontend Serverless with React and GraphQL || Codemochi.com || Pending
+        -ServerlessReact.dev || ServerlessReact.dev || Pending
         -TinyHouse: Fullstack || Fullstack.io || Pending
         -Microservices with Node JS and React || udemy || Pending
 
