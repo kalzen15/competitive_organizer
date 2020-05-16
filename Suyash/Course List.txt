@@ -20,20 +20,26 @@
         -Getting Started with Docker || Tim Corey || Pending
         -Learn Blazor Server|| Tim Corey || Pending
 
-    -Web Development(javascript)
+    -HTML & CSS
         -HTML5 and CSS3 creative course ||DevelopedByed|| Working
+
+    -Javascript    
         -Javascript basics || Ultimatecourses.com || Pending
         -JAVASCRIPT DOM || Ultimatecourses.com || Pending
         -Creative Javascript Course || DevelopedByed || Pending
-      
-    -Web Development(Pre-Framework track)
         -Modern Javascript || Tyler Mcginnis || Pending 
         -Advanced Javascript || Tyler Mcginnis || Pending
+
+    -TypeScript    
+        -TypeScript Fundamentals || typescriptcourses.com/James Henry || Pending
+        -TypeScript Pro || typescriptcourses.com/James Henry || Pending
         -TypeScript basics || Ultimatecourses.com || Pending 
         -TypeScript Masterclass || Ultimatecourses.com || Pending
+
+    -Firebase    
         -Firestore data modeling course || Fireship.io || Pending
 
-    -Web Development(React Track)
+    -React
         -React || Tyler Mcginnis || Pending
         -React Redux || Tyler Mcginnis || Pending
         -React Router4 || Tyler Mcginnis || Pending
@@ -41,10 +47,11 @@
         -React Hooks || Tyler Mcginnis || Pending
         -React Hooks || ReactTraining.com || Pending
         -Realtime React with Firebase || ReactTraining || Pending 
+        -Frontend Serverless with React and GraphQL || Codemochi.com || Pending
         -TinyHouse: Fullstack || Fullstack.io || Pending
         -Microservices with Node JS and React || udemy || Pending
 
-    -Web Development(Vue Track)
+    -Vue
         -Intro to Vue.js || vuemastery.com || Pending
         -Real World Vue.js || vuemastery.com || Pending
         -Mastering Vuex || vuemastery.com || Pending
@@ -67,7 +74,7 @@
         -Enterprise vue || Vuejsdeveloper.com || Pending
         -Build Along: Vue3 Time Blocking App || Learnvue.co || Pending
 
-    -Web Developedment(PHP-Laravel)
+    -PHP & Laravel
         -The PHP Practitioner || Laracasts || Pending
         -Object-Oriented Principles in PHP || Laracasts || Pending
         -Getting started with vagrant for local development || Scotch.io || Pending
