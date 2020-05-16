@@ -22,7 +22,14 @@
 
     -HTML & CSS
         -HTML5 and CSS3 creative course ||DevelopedByed|| Working
-
+        -CSS simplified || || Webdevsimplified.com || Pending
+        -Level up your CSS animation skills || CssAnimation.rocks || Pending
+        -Skrollr workshop || ihatetomatoes.net || Pending
+        -ScrollMagic 101 || ihatetomatoes.net || Pending
+        -ScrollMagic Workshop || ihatetomatoes.net || Pending
+        -GreenSock 101 || ihatetomatoes.net || Pending
+        -GreenSock Workshop || ihatetomatoes.net || Pending
+ 
     -Javascript    
         -Javascript basics || Ultimatecourses.com || Pending
         -JAVASCRIPT DOM || Ultimatecourses.com || Pending
@@ -35,11 +42,19 @@
         -TypeScript Pro || typescriptcourses.com/James Henry || Pending
         -TypeScript basics || Ultimatecourses.com || Pending 
         -TypeScript Masterclass || Ultimatecourses.com || Pending
+        
+        
 
     -Firebase    
         -Firestore data modeling course || Fireship.io || Pending
+        -Cloud Functions Stripe Payments || Fireship.io || Pending
 
     -React
+        -React 101 || ihatetomatoes.net || Pending
+        -React Workshop || ihatetomatoes.net || Pending
+        -Learn React Today || Webdevsimplified.com || Pending
+        -React Basics || Ultimatecourses || Pending
+        -React Styling || Ultimatecourses || Pending
         -React || Tyler Mcginnis || Pending
         -React Redux || Tyler Mcginnis || Pending
         -React Router4 || Tyler Mcginnis || Pending
@@ -50,6 +65,9 @@
         -Frontend Serverless with React and GraphQL || Codemochi.com || Pending
         -TinyHouse: Fullstack || Fullstack.io || Pending
         -Microservices with Node JS and React || udemy || Pending
+
+        -Next.js
+            -Next.js - Full Course || MasteringnextJs.com/Lee Robinson || Pending
 
     -Vue
         -Intro to Vue.js || vuemastery.com || Pending
@@ -73,6 +91,8 @@
         -Build A Professional Vue App with Vuex & Server-Side Rendering || Vuejsdeveloper.com || Pending
         -Enterprise vue || Vuejsdeveloper.com || Pending
         -Build Along: Vue3 Time Blocking App || Learnvue.co || Pending
+
+
 
     -PHP & Laravel
         -The PHP Practitioner || Laracasts || Pending
