@@ -41,6 +41,8 @@
         -JAVASCRIPT DOM || Ultimatecourses.com || Pending
         -Modern Javascript || Tyler Mcginnis || Pending 
         -Advanced Javascript || Tyler Mcginnis || Pending
+        -Master 30 front-end skills || RYAN YU\FRONTEND30.COM || Pending
+        -JavaScript Interview Espresso || INTERVIEWESPRESSO(AARON JACK) || Pending
 
     -TypeScript    
         -TypeScript Fundamentals || typescriptcourses.com/James Henry || Pending
@@ -56,7 +58,7 @@
         -Learn Node || wesbos || Pending
         -
     -React
-        -React for beginners
+        -React for beginners || wesbos || Pending
         -React 101 || ihatetomatoes.net || Pending
         -React Workshop || ihatetomatoes.net || Pending
         -Learn React Today || Webdevsimplified.com || Pending
@@ -74,9 +76,13 @@
         -TinyHouse: Fullstack || Fullstack.io || Pending
         -Microservices with Node JS and React || udemy || Pending
 
-        -Next.js
-            -Next.js - Full Course || MasteringnextJs.com/Lee Robinson || Pending
-
+    -Next.js
+        -Next.js - Full Course || MasteringnextJs.com/Lee Robinson || Pending
+    
+    -React Native
+        -HandleBar collection || Pending
+        -React native ultimate basics  || wesbos || Pending
+        -React native geture and animation || start-react-native.dev || Pending 
     -Vue
         -Intro to Vue.js || vuemastery.com || Pending
         -Real World Vue.js || vuemastery.com || Pending
