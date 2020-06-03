@@ -3,143 +3,192 @@
 /*
 #categoryName
     -groupName
-        courseTitle || courseAuthor || courseStatus   
+        courseTitle || courseAuthor || courseStatus || Downloaded   
+✔️ === completed
+❌ === not completed 
+🚧 === work in progress
+⬇️ === Downloaded
 */
 ----------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------
 #Tech
     -C#
-        -C#-1to10|| Tim Corey || Working    
-        -Application Lifecycle Design || Tim Corey || Pending        
-        -SQLite Application from start to finish || Tim Corey || Pending
-        -Application from start to finish || Tim Corey|| Pending
-        -Timco Retail Manager Phase 1 || Tim Corey || Pending
-        -SQL Databases: From Start to Finish || Tim Corey || Pending
-        -Getting Started with .NET Core || Tim Corey || Pending                         
-        -Upgrading to .NET Core from Start to Finish || Tim Corey || Pending
-        -Getting Started with Docker || Tim Corey || Pending
-        -Learn Blazor Server|| Tim Corey || Pending
+        -C#-1to10|| Tim Corey || 🚧 || ⬇️    
+        -Application Lifecycle Design || Tim Corey || ❌        
+        -SQLite Application from start to finish || Tim Corey || ❌
+        -Application from start to finish || Tim Corey|| ❌
+        -Timco Retail Manager Phase 1 || Tim Corey || ❌
+        -SQL Databases: From Start to Finish || Tim Corey || ❌
+        -Getting Started with .NET Core || Tim Corey || ❌                         
+        -Upgrading to .NET Core from Start to Finish || Tim Corey || ❌
+        -Getting Started with Docker || Tim Corey || ❌
+        -Learn Blazor Server|| Tim Corey || ❌
 
     -HTML & CSS
-        -HTML5 and CSS3 creative course ||DevelopedByed|| Working
-        -CSS simplified || Webdevsimplified.com || Pending
-        -Learn CSS GRID  || wesbos || Pending
-        -Level up your CSS animation skills || CssAnimation.rocks || Pending
-        -Skrollr workshop || ihatetomatoes.net || Pending
-        -ScrollMagic 101 || ihatetomatoes.net || Pending
-        -ScrollMagic Workshop || ihatetomatoes.net || Pending
-        -GreenSock 101 || ihatetomatoes.net || Pending
-        -GreenSock Workshop || ihatetomatoes.net || Pending
-        -The Responsive Web Design Bootcamp || Kevin Powell || Pending
-        -Sass from beginner to real world || Kevin Powell || Pending
- 
+        -HTML5 and CSS3 creative course ||DevelopedByed|| 🚧 || ⬇️
+        -CSS simplified || Webdevsimplified.com || ❌
+        -The Responsive Web Design Bootcamp || Kevin Powell || ❌
+        -Sass from beginner to real world || Kevin Powell || ❌
+        -Learn CSS GRID  || wesbos || ❌
+        -Level up your CSS animation skills || CssAnimation.rocks || ❌
+        -Skrollr workshop || ihatetomatoes.net || ❌
+        -ScrollMagic 101 || ihatetomatoes.net || ❌
+        -ScrollMagic Workshop || ihatetomatoes.net || ❌
+        -GreenSock 101 || ihatetomatoes.net || ❌
+        -GreenSock Workshop || ihatetomatoes.net || ❌
+        
     -Javascript  
-        -Creative Javascript Course || DevelopedByed || Pending  
-        -JavaScript for beginners || wesbos || Pending
-        -ES6 for everyone || wesbos || Pending
-        -Javascript basics || Ultimatecourses.com || Pending
-        -JAVASCRIPT DOM || Ultimatecourses.com || Pending
-        -Modern Javascript || Tyler Mcginnis || Pending 
-        -Advanced Javascript || Tyler Mcginnis || Pending
-        -Master 30 front-end skills || RYAN YU\FRONTEND30.COM || Pending
-        -JavaScript Interview Espresso || INTERVIEWESPRESSO(AARON JACK) || Pending
+        -Profit with Javascript || Cleverprogrammer.com || ❌ || ⬇️
+        -Creative Javascript Course || DevelopedByed || ❌ || ⬇️
+        -JavaScript for beginners || wesbos || ❌
+        -ES6 for everyone || wesbos || ❌
+        -Javascript basics || Ultimatecourses.com || ❌ || ⬇️
+        -JAVASCRIPT DOM || Ultimatecourses.com || ❌ || ⬇️
+        -Modern Javascript || Tyler Mcginnis || ❌ || ⬇️
+        -Advanced Javascript || Tyler Mcginnis || ❌
+        -Master 30 front-end skills || RYAN YU\FRONTEND30.COM || ❌
+        -JavaScript Interview Espresso || INTERVIEWESPRESSO(AARON JACK) || ❌
+        -[BOOK] COMPOSING SOFTWARE ||  [ERIC ELLIOTT] || ❌
+        -Learn JavaScript Closures (PRO) ||  closures.codesmith.io || ❌
+        -JavaScript testing|| Testing JavaScript with Kent C. Dodds || ❌
+        -STRIPE PAYMENTS - JAVASCRIPT COURSE ||  fireship.io || ❌
+
+    -D3.js
+        -[Book] Beautiful data visualization with D3 (Packet ADVANCED) || Fullstack.io || ❌
 
     -TypeScript    
-        -TypeScript Fundamentals || typescriptcourses.com/James Henry || Pending
-        -TypeScript Pro || typescriptcourses.com/James Henry || Pending
-        -TypeScript basics || Ultimatecourses.com || Pending 
-        -TypeScript Masterclass || Ultimatecourses.com || Pending
-        
+        -TypeScript Fundamentals || typescriptcourses.com/James Henry || ❌
+        -TypeScript Pro || typescriptcourses.com/James Henry || ❌
+        -TypeScript basics || Ultimatecourses.com || ❌ || ⬇️
+        -TypeScript Masterclass || Ultimatecourses.com || ❌ || ⬇️
+         
     -Firebase    
-        -Firestore data modeling course || Fireship.io || Pending
-        -Cloud Functions Stripe Payments || Fireship.io || Pending
+        -Firestore data modeling course || Fireship.io || ❌
+        -Cloud Functions Stripe Payments || Fireship.io || ❌
 
     -Node   
-        -Learn Node || wesbos || Pending
-        -
+        -Learn Node || wesbos || ❌
+
     -React
-        -React for beginners || wesbos || Pending
-        -React 101 || ihatetomatoes.net || Pending
-        -React Workshop || ihatetomatoes.net || Pending
-        -Learn React Today || Webdevsimplified.com || Pending
-        -React Basics || Ultimatecourses || Pending
-        -React Styling || Ultimatecourses || Pending
-        -React || Tyler Mcginnis || Pending
-        -React Redux || Tyler Mcginnis || Pending
-        -React Router4 || Tyler Mcginnis || Pending
-        -React Router5 || ReactTraining || Pending
-        -React Hooks || Tyler Mcginnis || Pending
-        -React Hooks || ReactTraining.com || Pending
-        -Realtime React with Firebase || ReactTraining || Pending 
-        -Frontend Serverless with React and GraphQL || Codemochi.com || Pending
-        -ServerlessReact.dev || ServerlessReact.dev || Pending
-        -TinyHouse: Fullstack || Fullstack.io || Pending
-        -Microservices with Node JS and React || udemy || Pending
+        -MASTERING REACT (MOSH HAMEDANI) ||  codewithmosh (Mosh Hamedani) || ❌ 
+        -React for beginners || wesbos || ❌
+        -React 101 || ihatetomatoes.net || ❌
+        -React Workshop || ihatetomatoes.net || ❌
+        -Learn React Today || Webdevsimplified.com || ❌
+        -React Basics || Ultimatecourses || ❌
+        -React Styling || Ultimatecourses || ❌
+        -React || Tyler Mcginnis || ❌
+        -React Redux || Tyler Mcginnis || ❌
+        -React Router 4 || Tyler Mcginnis || ❌
+        -React Router 5 || ReactTraining || ❌
+        -React Hooks || Tyler Mcginnis || ❌
+        -React Hooks || ReactTraining.com || ❌
+        -MAKE 20 REACT APPLICATIONS || 20reactapps.com (Chris on Code) || ❌
+        -Realtime React with Firebase || ReactTraining || ❌ 
+        -React and Serverless - Fullstack Web Development || James Q || ❌
+        -ServerlessReact.dev || ServerlessReact.dev || ❌
+        -Frontend Serverless with React and GraphQL || Codemochi.com || ❌
+        -TinyHouse: Fullstack || Fullstack.io || ❌ || ⬇️
+        -Data visualization with React || REACTFORDATAVIZ.COM || ❌
+        -Create an Instagram clone with React || React12.io || ❌
+        -PROTOTYPING WITH REACT + FRAMER ||  learnreact.design || ❌
+        -Pure React || David || ❌ || ⬇️
+        -Microservices with Node JS and React || udemy || ❌
 
     -Next.js
-        -Next.js - Full Course || MasteringnextJs.com/Lee Robinson || Pending
-    
+        -Next.js - Full Course || MasteringnextJs.com/Lee Robinson || ❌
+        -Next.js: Universal JavaScript (STARTER PACKAGE) || LeftLogic || ❌
+
     -React Native
-        -HandleBar collection || Pending
-        -React native ultimate basics  || wesbos || Pending
-        -React native geture and animation || start-react-native.dev || Pending 
+        -React native by example || HandleBar || ❌  || ⬇️
+        -React native ultimate basics  || wesb os || ❌
+        -React native geture and animation || start-react-native.dev || ❌
+
+        
     -Vue
-        -Intro to Vue.js || vuemastery.com || Pending
-        -Real World Vue.js || vuemastery.com || Pending
-        -Mastering Vuex || vuemastery.com || Pending
-        -Next-Level Vue || vuemastery.com || Pending
-        -Watch us Build a Trello Clone  || vuemastery.com || Pending
-        -Animating Vue || vuemastery.com || Pending
-        -Unit Testing || vuemastery.com || Pending
-        -Token-Based Authentication || vuemastery.com || Pending
-        -Scaling vue with Nuxt.js || vuemastery.com || Pending
-        -Beautify with Vuetify || vuemastery.com || Pending
-        -Component Design Patterns || vuemastery.com || Pending
-        -Vue 3 Essentials || vuemastery.com || Pending
-        -Vue 3 Reactivity || vuemastery.com || Pending
-        -Vue 360 || Erik Hanchett || Pending
-        -The Vue Firebase Project Course || Fireship.io || Pending
-        -Vue 3 deep dive with evan you || vuemastery.com || Pending
-        -Build Your First Vue.js App || Vuejsdeveloper.com || Pending
-        -Build A Vue.js Single-Page App with Vue Router || Vuejsdeveloper.com || Pending
-        -Build A Professional Vue App with Vuex & Server-Side Rendering || Vuejsdeveloper.com || Pending
-        -Enterprise vue || Vuejsdeveloper.com || Pending
-        -Build Along: Vue3 Time Blocking App || Learnvue.co || Pending
+        -Intro to Vue.js || vuemastery.com || ❌
+        -Real World Vue.js || vuemastery.com || ❌
+        -Mastering Vuex || vuemastery.com || ❌
+        -Next-Level Vue || vuemastery.com || ❌
+        -Watch us Build a Trello Clone  || vuemastery.com || ❌
+        -Animating Vue || vuemastery.com || ❌
+        -Unit Testing || vuemastery.com || ❌
+        -Token-Based Authentication || vuemastery.com || ❌
+        -Scaling vue with Nuxt.js || vuemastery.com || ❌
+        -Beautify with Vuetify || vuemastery.com || ❌
+        -Component Design Patterns || vuemastery.com || ❌
+        -Vue 3 Essentials || vuemastery.com || ❌
+        -Vue 3 Reactivity || vuemastery.com || ❌
+        -Vue 360 || Erik Hanchett || ❌
+        -The Vue Firebase Project Course || Fireship.io || ❌
+        -Vue 3 deep dive with evan you || vuemastery.com || ❌
+        -Build Your First Vue.js App || Vuejsdeveloper.com || ❌
+        -Build A Vue.js Single-Page App with Vue Router || Vuejsdeveloper.com || ❌
+        -Build A Professional Vue App with Vuex & Server-Side Rendering || Vuejsdeveloper.com || ❌
+        -Enterprise vue || Vuejsdeveloper.com || ❌
+        -Build Along: Vue3 Time Blocking App || Learnvue.co || ❌
 
 
 
     -PHP & Laravel
-        -The PHP Practitioner || Laracasts || Pending
-        -Object-Oriented Principles in PHP || Laracasts || Pending
-        -Getting started with vagrant for local development || Scotch.io || Pending
-        -Laravel From Scratch || Laracasts || Pending
-        -Confident Laravel || ConfidentLaravel.com || Pending
-        -Useful Laravel Packages || Codewithdre.com || Pending
+        -The PHP Practitioner || Laracasts || ❌
+        -Object-Oriented Principles in PHP || Laracasts || ❌
+        -Getting started with vagrant for local development || Scotch.io || ❌
+        -Laravel From Scratch || Laracasts || ❌
+        -Confident Laravel || ConfidentLaravel.com || ❌
+        -Useful Laravel Packages || Codewithdre.com || ❌
 
     -DSA and interview Preparation
-        -Crash Course in Data Structures || Algoexpert.io || Pending    
-        -Coding Interview Preparation || backtobackswe.com || Pending
-        -Coding Interview Questions || Algoexpert.io || Pending
-        -System Design Fundamentals || Algoexpert.io || Pending
-        -6 Quetions on System Design || Algoexpert.io || Pending
-        -Job Interview: Tips and Tricks || Algoexpert.io || Pending
+        -Crash Course in Data Structures || Algoexpert.io || ❌    
+        -Coding Interview Preparation || backtobackswe.com || ❌
+        -Coding Interview Questions || Algoexpert.io || ❌
+        -System Design Fundamentals || Algoexpert.io || ❌
+        -6 Quetions on System Design || Algoexpert.io || ❌
+        -Job Interview: Tips and Tricks || Algoexpert.io || ❌
 
     -Design 
-        -Design basics || Designacademy.io || Pending
-        -The Science of Great Design || Deviq.io ||Pending
-        -Create designs like a pro || Deviq.io ||Pending 
-        -Visual Design Principles and Best Practices || sarahdoody.com ||Pending 
-        -The UX Portfolio Formula || sarahdoody.com ||Pending 
+        -Design basics || Designacademy.io || ❌
+        -The Science of Great Design || Deviq.io ||❌
+        -Create designs like a pro || Deviq.io ||❌ 
+        -Visual Design Principles and Best Practices || sarahdoody.com ||❌ 
+        -The UX Portfolio Formula || sarahdoody.com ||❌ 
 
     -RPA development
-        -Getting Started with RPA || automationanywhere.com || Pending
-        -Bot Developer || automationanywhere.com || Pending
-        -Advanced RPA Professional Prep + Exam (version 11) || automationanywhere.com || Pending
+        -Getting Started with RPA || automationanywhere.com || ❌
+        -Bot Developer || automationanywhere.com || ❌
+        -Advanced RPA Professional Prep + Exam (version 11) || automationanywhere.com || ❌
+
+    -Docker
+        -DIVING IN DOCKER - A COMPLETE COURSE FOR DEVELOPERS|| Nick janetakis || ❌
+        -Learn to create web applications with Flask and Docker ||  Nick janetakis || ❌
+
+    -Python
+        -Python Interview Espresso || interviewespresso (Aaron Jack) || ❌
+        -HOW TO AUTOMATE THINGS USING PYTHON || cleverprogrammer.com || ❌
+        -[BOOK] DJANGO FOR BEGINNERS / API / FOR PROFESSIONALS (3 IN 1) || Leanpub || ❌
+        -[BOOK] REAL PYTHON COURSE (3 BOOKS + VIDEOS)||  realpython.com || ❌
+        -LOCATION BASED WEB APPLICATION USING DJANGO AND GEODJANGO || realpython.com || ❌
+
+
+    -Flask  
+        -[BOOK] [MIGUEL GRINBERG] FLASK MEGA TUTORIAL + VIDEO ||  Miguel grinberg || ❌
+    
+    -Elixir and Phoenix
+        -Elixir & Phoenix for Beginners || knowthen.com || ❌
+        -ELIXIR FOR PROGRAMMERS ||  coding-gnome.com || ❌  
+        -Full-Stack GraphQL with Absinthe, Phoenix, and React || pragmaticstudio || ❌
+        -MULTIPLAYER BINGO UNDER THE HOOD (ELIXIR + PHOENIX + ELM / VUE) || pragmaticstudio || ❌
+        -ELIXIR / OTP DEVELOPMENT || pragmaticstudio || ❌
 
 
     -Others
-        -Advanced Distributed System Design || particular.net || Working
-        -Thinking Like an Object-Oriented Programmer || Bob Tabor || Pending
-        -Getting Git || Jason Mccreary || Pending
+        -Advanced Distributed System Design || particular.net || ❌
+        -Thinking Like an Object-Oriented Programmer || Bob Tabor || ❌
+        -Getting Git || Jason Mccreary || ❌
+        -MODERN DEVELOPER TOOLS || moderndevtools.com || ❌
+        -COMPOSING SOFTWARE || [BOOK] [ERIC ELLIOTT] || ❌
+        -SUPER USER VSCODE ||  Ahmad Awais (vscode.pro) || ❌
+        -[BOOK] HOW TO HOST, PROTECT AND PROVIDE STATIC SITES ||  kylegalbraith.com || ❌
         
+
 
