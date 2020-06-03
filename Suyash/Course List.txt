@@ -173,6 +173,7 @@
     -Flask  
         -[BOOK] [MIGUEL GRINBERG] FLASK MEGA TUTORIAL + VIDEO ||  Miguel grinberg || ❌
     
+
     -Elixir and Phoenix
         -Elixir & Phoenix for Beginners || knowthen.com || ❌
         -ELIXIR FOR PROGRAMMERS ||  coding-gnome.com || ❌  
@@ -180,15 +181,17 @@
         -MULTIPLAYER BINGO UNDER THE HOOD (ELIXIR + PHOENIX + ELM / VUE) || pragmaticstudio || ❌
         -ELIXIR / OTP DEVELOPMENT || pragmaticstudio || ❌
 
+    -Version Control
+        -Getting Git || Jason Mccreary || ❌
 
+        
     -Others
         -Advanced Distributed System Design || particular.net || ❌
         -Thinking Like an Object-Oriented Programmer || Bob Tabor || ❌
-        -Getting Git || Jason Mccreary || ❌
         -MODERN DEVELOPER TOOLS || moderndevtools.com || ❌
         -COMPOSING SOFTWARE || [BOOK] [ERIC ELLIOTT] || ❌
         -SUPER USER VSCODE ||  Ahmad Awais (vscode.pro) || ❌
-        -[BOOK] HOW TO HOST, PROTECT AND PROVIDE STATIC SITES ||  kylegalbraith.com || ❌
+        -[BOOK] HOW TO HOST, PROTECT AND PROVIDE STATIC SITES ||  kylegalbraith.com || ❌   
         
 
 
